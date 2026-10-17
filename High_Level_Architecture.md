@@ -358,7 +358,7 @@ smartspend/
 
 ## 👨‍💻 Author
 
-**Akanksha Upare and Pawan Mehta**  
+**Pawan Mehta**  
 
 
 ---
