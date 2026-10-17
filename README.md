@@ -63,17 +63,14 @@ Development → Testing → Docker → AWS → Terraform → CI/CD → Monitorin
 
 ## 🖼 Application Preview
 
-> Replace the placeholders below with real screenshots from the deployed app (crop browser/account details first).
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="SmartSpend Dashboard" width="90%">
+  <br><em>Expense dashboard with spending analytics</em>
+</p>
 
-| Dashboard | Receipt Upload |
-|:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Receipt Upload](docs/screenshots/receipt-upload.png) |
-
-| Analytics | Receipt History |
-|:---:|:---:|
-| ![Analytics](docs/screenshots/analytics.png) | ![Receipt History](docs/screenshots/receipt-history.png) |
-
----
+| Receipt Upload | Analytics | Receipt History |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/screenshot-2.png" width="100%"> | <img src="docs/screenshots/screenshot-3.png" width="100%"> | <img src="docs/screenshots/screenshot-4.png" width="100%"> |
 
 ## ✨ Highlights
 
